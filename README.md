@@ -16,7 +16,8 @@ In my free time, I'm usually outdoors making the most of Queenstown and its beau
 Here are some of the projects I've been working on:
 - **KiwiCrypto**: A crypto tracking app to let users track the top 100 coins on coin market cap in NZD.
 - **Optimistic Weather**: An app that gives recommendations on activities to do and events to attend with the location the user selected in NZ.
-- **Eth-Todo**: Trying to make a simple todo app using the blockchain with solidity.
+- **Jobify**: An app that I use to track jobs that I have applied for. I also added some stats too. 
+- **SitePro**: An Asset Management app for my Dad and his company -not complete
 
 ## Connect with Me
 - **[LinkedIn](https://www.linkedin.com/in/harrison-euan-rogers/)**
