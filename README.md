@@ -20,6 +20,7 @@ Here are some of the projects I've been working on:
 - **SitePro**: An Asset Management app for my Dad and his company -not complete
 
 ## Connect with Me
+- **[Portfolio](https://harrison-rogers.com/)**
 - **[LinkedIn](https://www.linkedin.com/in/harrison-euan-rogers/)**
 - **[Twitter](https://twitter.com/RogersCryptProg)**
 
