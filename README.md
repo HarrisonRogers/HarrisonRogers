@@ -3,7 +3,7 @@
 ## About Me
 After seeing everybody else going down the traditional university path, I dove deep into a console and decided to try my hand at something different. Now I’m 18 years old, having learnt fundamental skills at Dev Academy, and I'm looking to lend my hand to helping blockchain take over the world.
 
-In my free time, I'm usually outdoors making the most of Queenstown and its beauty by going for walks or runs, helping out with the high school rugby team, and going to the gym.
+In my free time, I'm usually outdoors making the most of Queenstown and its beauty by going for walks or runs, shredding the slopes, playing footy, and going to the gym.
 
 ## Languages and Tools
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
