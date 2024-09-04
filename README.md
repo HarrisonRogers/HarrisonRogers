@@ -8,6 +8,7 @@ In my free time, I'm usually outdoors making the most of Queenstown and its beau
 ## Languages and Tools
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -16,8 +17,8 @@ In my free time, I'm usually outdoors making the most of Queenstown and its beau
 Here are some of the projects I've been working on:
 - **KiwiCrypto**: A crypto tracking app to let users track the top 100 coins on coin market cap in NZD.
 - **Optimistic Weather**: An app that gives recommendations on activities to do and events to attend with the location the user selected in NZ. (https://github.com/tohora-2024/optimisticweather)
-- **Jobify**: An app that I use to track jobs that I have applied for. I also added some stats too. 
-- **SitePro**: An Asset Management app for my Dad and his company -not complete
+- **Jobif (Next.js)y**: An app that I use to track jobs that I have applied for. I also added some stats too. 
+- **SitePro (Next.js)**: An Asset Management app for my Dad and his company -not complete
 
 ## Connect with Me
 - **[Portfolio](https://harrison-rogers.com/)**
