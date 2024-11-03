@@ -19,6 +19,7 @@ Here are some of the projects I've been working on:
 - **Optimistic Weather**: An app that gives recommendations on activities to do and events to attend with the location the user selected in NZ. (https://github.com/tohora-2024/optimisticweather)
 - **Jobify (Next.js)**: An app that I use to track jobs that I have applied for. I also added some stats too. 
 - **SitePro (Next.js)**: An Asset Management app for my Dad and his company -not complete
+- **Eth-Lottery (Solidity)**: A lottery blockchain application created with Solidity and Next.js my first Ethereum Smart Contract
 
 ## Connect with Me
 - **[Portfolio](https://harrison-rogers.com/)**
