@@ -21,7 +21,7 @@ Here are some of the projects I've been working on:
 - **Jobify (Next.js)**: An app that I use to track jobs that I have applied for. I also added some stats too.
 - **Meditation React Native App**: A functional react native app to learn react native since I wasn't so familiar with it
 - **SitePro (Next.js)**: An Asset Management app for my Dad and his company -not complete
-- **Eth-Lottery (Solidity)**: A lottery blockchain application created with Solidity and Next.js my first Ethereum Smart Contract
+- **Eth-Lottery (Solidity/Next.js/web3.js)**: A lottery blockchain application created with Solidity and Next.js my first Ethereum Smart Contract
 
 ## Connect with Me
 - **[Portfolio](https://harrison-rogers.com/)**
