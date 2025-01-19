@@ -6,9 +6,9 @@ After seeing everybody else going down the traditional university path, I dove d
 In my free time, I'm usually outdoors making the most of Queenstown and its beauty by going for walks or runs, shredding the slopes, playing footy, and going to the gym.
 
 ## Languages and Tools
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Wagmi](https://img.shields.io/badge/-Wagmi-000000?style=flat-square&logo=wagmi&logoColor=white)
