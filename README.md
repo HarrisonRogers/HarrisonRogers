@@ -20,7 +20,6 @@ In my free time, I'm usually outdoors making the most of Queenstown and its beau
 ## My Projects
 Here are some of the projects I've been working on:
 - **KiwiCrypto**: A crypto tracking app to let users track the top 100 coins on coin market cap in NZD.
-- **Optimistic Weather**: An app that gives recommendations on activities to do and events to attend with the location the user selected in NZ. (https://github.com/tohora-2024/optimisticweather)
 - **Jobify (Next.js)**: An app that I use to track jobs that I have applied for. I also added some stats too.
 - **Meditation React Native App**: A functional react native app to learn react native since I wasn't so familiar with it
 - **SitePro (Next.js)**: An Asset Management app for my Dad and his company -not complete
