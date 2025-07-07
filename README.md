@@ -1,9 +1,9 @@
 # Hello, I'm Harrison! 👋
 
 ## About Me
-After seeing everybody else going down the traditional university path, I dove deep into a console and decided to try my hand at something different. Now I’m 18 years old, having learnt fundamental skills at Dev Academy, and I'm looking to lend my hand to helping blockchain take over the world.
+I am primarily a Frontend Engineer who dabbles in Web3 and AI development 
 
-In my free time, I'm usually outdoors making the most of Queenstown and its beauty by going for walks or runs, shredding the slopes, playing footy, and going to the gym.
+In my free time, I'm usually outdoors making the most of NZ South Island and its beauty by going for walks/runs, shredding the slopes, playing footy, and going to the gym.
 
 ## Languages and Tools
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
@@ -21,9 +21,6 @@ In my free time, I'm usually outdoors making the most of Queenstown and its beau
 
 ## My Projects
 Here are some of the projects I've been working on:
-- **KiwiCrypto**: A crypto tracking app to let users track the top 100 coins on coin market cap in NZD.
-- **Jobify (Next.js)**: An app that I use to track jobs that I have applied for. I also added some stats too.
-- **Meditation React Native App**: A functional react native app to learn react native since I wasn't so familiar with it
 - **SitePro (Next.js)**: An Asset Management app for my Dad and his company -not complete
 - **Eth-Lottery (Solidity/Next.js/web3.js)**: A lottery blockchain application created with Solidity and Next.js my first Ethereum Smart Contract
 
