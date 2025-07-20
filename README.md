@@ -12,6 +12,7 @@ In my free time, I'm usually outdoors making the most of NZ South Island and its
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flate-square&logo=tailwind-css&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flate-square&logo=rust&logoColor=D34516)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Wagmi](https://img.shields.io/badge/-Wagmi-000000?style=flat-square&logo=wagmi&logoColor=white)
