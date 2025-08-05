@@ -1,7 +1,7 @@
 # Hello, I'm Harrison! 👋
 
 ## About Me
-I am primarily a Frontend Engineer who dabbles in Web3 and AI development 
+I am a Frontend Engineer who dabbles in Web3 and AI development 
 
 In my free time, I'm usually outdoors making the most of NZ South Island and its beauty by going for walks/runs, shredding the slopes, playing footy, and going to the gym.
 
