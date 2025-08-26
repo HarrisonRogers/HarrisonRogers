@@ -20,11 +20,6 @@ In my free time, I'm usually outdoors making the most of NZ South Island and its
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## My Projects
-Here are some of the projects I've been working on:
-- **SitePro (Next.js)**: An Asset Management app for my Dad and his company -not complete
-- **Eth-Lottery (Solidity/Next.js/web3.js)**: A lottery blockchain application created with Solidity and Next.js my first Ethereum Smart Contract
-
 ## Connect with Me
 - **[Portfolio](https://www.harrisonrogers.dev/)**
 - **[LinkedIn](https://www.linkedin.com/in/harrison-euan-rogers/)**
