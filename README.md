@@ -26,7 +26,7 @@ Here are some of the projects I've been working on:
 - **Eth-Lottery (Solidity/Next.js/web3.js)**: A lottery blockchain application created with Solidity and Next.js my first Ethereum Smart Contract
 
 ## Connect with Me
-- **[Portfolio](https://www.theharrisonrogers.com/)**
+- **[Portfolio](https://www.harrisonrogers.dev/)**
 - **[LinkedIn](https://www.linkedin.com/in/harrison-euan-rogers/)**
 - **[Twitter](https://x.com/0xRoge)**
 
