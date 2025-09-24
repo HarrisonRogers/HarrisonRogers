@@ -23,6 +23,6 @@ In my free time, I'm usually outdoors making the most of NZ South Island and its
 ## Connect with Me
 - **[Portfolio](https://www.harrisonrogers.dev/)**
 - **[LinkedIn](https://www.linkedin.com/in/harrison-euan-rogers/)**
-- **[Twitter](https://x.com/0xRoge)**
+- **[X](https://x.com/0xRoge)**
 
 Hit me up if you have any questions or if you want to collaborate on a project!
