@@ -1,9 +1,12 @@
 # Hello, I'm Harrison! 👋
 
 ## About Me
-I am a Frontend Engineer who dabbles in Web3 and AI development 
+I am a Software Engineer who dabbles in Web3 and AI development
 
-In my free time, I'm usually outdoors making the most of NZ South Island and its beauty by going for walks/runs, shredding the slopes, playing footy, and going to the gym.
+In my free time, I'm usually outdoors going for walks/runs, shredding the slopes, playing footy, and going to the gym. 
+
+I am super curious about technology and always keep up to date on the latest and greatest.
+I program a lot in my spare time. Learning the ins and outs of React and Typescript whilst exploring my curiosity for Rust!
 
 ## Languages and Tools
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
@@ -24,5 +27,3 @@ In my free time, I'm usually outdoors making the most of NZ South Island and its
 - **[Portfolio](https://www.harrisonrogers.dev/)**
 - **[LinkedIn](https://www.linkedin.com/in/harrison-euan-rogers/)**
 - **[X](https://x.com/0xRoge)**
-
-Hit me up if you have any questions or if you want to collaborate on a project!
