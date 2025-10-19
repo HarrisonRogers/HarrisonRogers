@@ -24,6 +24,7 @@ I program a lot in my spare time. Learning the ins and outs of React and Typescr
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ## Connect with Me
-- **[Portfolio](https://www.harrisonrogers.dev/)**
 - **[LinkedIn](https://www.linkedin.com/in/harrison-euan-rogers/)**
 - **[X](https://x.com/0xRoge)**
+- **[Portfolio](https://www.harrisonrogers.dev/)**
+
