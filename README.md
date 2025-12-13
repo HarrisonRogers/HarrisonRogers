@@ -25,6 +25,6 @@ I program a lot in my spare time. Learning the ins and outs of React and Typescr
 
 ## Connect with Me
 - **[LinkedIn](https://www.linkedin.com/in/harrison-euan-rogers/)**
-- **[X](https://x.com/0xRoge)**
+- **[X](https://x.com/hrogerzzz)**
 - **[Portfolio](https://www.harrisonrogers.dev/)**
 
