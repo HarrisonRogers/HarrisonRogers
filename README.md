@@ -17,7 +17,6 @@ I program a lot in my spare time. Learning the ins and outs of React and Typescr
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flate-square&logo=tailwind-css&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flate-square&logo=rust&logoColor=D34516)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Wagmi](https://img.shields.io/badge/-Wagmi-000000?style=flat-square&logo=wagmi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
