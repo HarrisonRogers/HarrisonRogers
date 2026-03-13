@@ -1,7 +1,7 @@
 # Hello, I'm Harrison! 👋
 
 ## About Me
-I am a Software Engineer who dabbles in Web3 and AI development
+I am an AI Software Engineer who dabbles in Web3 and AI development
 
 In my free time, I'm usually outdoors going for walks/runs, shredding the slopes, playing footy, and going to the gym. 
 
