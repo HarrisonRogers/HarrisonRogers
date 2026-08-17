@@ -1,4 +1,4 @@
-# Hello, I'm Harrison! 👋
+# Hello, I'm Harrison!
 
 ## About Me
 I am an AI Software Engineer who dabbles in Web3 and AI development
